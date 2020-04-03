@@ -1,3 +1,0 @@
-export const STORE_AUTH = "STORE_AUTH";
-export const STORE_PAGE_NUMBER = "STORE_PAGE_NUMBER";
-export const SET_REGISTERED = "SET_REGISTERED";
